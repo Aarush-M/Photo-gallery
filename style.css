@@ -1,0 +1,33 @@
+.menu1 {
+    list-style: none;
+    float: right;
+    position: fixed;
+    overflow: hidden;
+}
+
+#myCarousel {
+    background-color:darkolivegreen;
+
+}
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+
+}
+
+.Carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color:cadetblue;
+    font-size: 20px;
+
+}
+body{
+    width: 100%;
+    height: 800px;
+    background-color:darkkhaki;
+}
+.container{
+    text-align: center;
+}
